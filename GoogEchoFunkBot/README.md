@@ -143,3 +143,7 @@ gcloud functions deploy telegram_bot --runtime python38 --trigger-http --project
 ```
 
 так как переменные среды уже создавать не нужно.
+
+---
+
+Инструкция сделана на основе материалов видео [Build, deploy and host a Telegram Bot on Google Cloud Functions for free using Python](https://www.youtube.com/watch?v=jzwMzUAAOWk&lc=z23bc3byuzvps1o5s04t1aokgqdpxagnb3etfxqoziqzbk0h00410.1626244286668840) на канале [Federico Tartarini](https://www.youtube.com/channel/UCRjhrVMfeAurqHm4BnTNgyw)
