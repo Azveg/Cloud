@@ -1,3 +1,15 @@
+> Данная инструкци предполагает, что у вас:
+>
+> * есть учетная запись [Google Cloud Platform](https://cloud.google.com/)  
+> * на локальном компьютере установлен [Python](https://www.python.org/downloads/) и [PyCharm](https://www.jetbrains.com/ru-ru/pycharm-edu/)
+
+### Создание проекта Google Cloud Platform  
+
+1. В верхней панели выбираем `Select a project` --> `New project`  
+2. заполняем поле `Project name`
+3. нажав на многоточие в правом углу меню можно, выбрав `Project settings`, перейти на страницу описание проекта и в том чиле узнать `Project ID`
+
+
 ### Регистрация телеграм бота
 
 1. находим в телеграме `@BotFather`
