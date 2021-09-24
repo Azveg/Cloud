@@ -1,0 +1,4 @@
+google
+pandas_gbq
+pycbrf
+tinkoff-invest-openapi-client==0.0.7
